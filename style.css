@@ -168,12 +168,21 @@ footer {
     border-top: 1px solid #29364e;
 }
 
-/* Adaptación para celulares */
-@media (max-width: 700px) {
-    .navbar {
-        flex-direction: column;
-    }
 
+/* Adaptación para celulares */
+@media (max-width: 768px) {
+    .servicios-container {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    
+    .menu {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 12px;
+    }
+  } 
     .menu {
         flex-wrap: wrap;
         justify-content: center;
