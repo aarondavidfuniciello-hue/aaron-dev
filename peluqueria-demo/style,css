@@ -530,8 +530,8 @@ section {
 }
 
 button {
-    background-color: #d4af37;
-    color: #111111;
+    background-color: #111111;
+    color: #d4af37;
     padding: 12px 20px;
     border: nome;
     border-radius: 6px;
