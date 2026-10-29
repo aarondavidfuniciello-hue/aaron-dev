@@ -514,7 +514,7 @@ header {
 }
 
 h1, h2, h3 {
-    color:#d4af37
+    color:#d4af37;
 }
 
 a {
@@ -522,7 +522,7 @@ a {
 }
 
 a:hover {
-    color:#ffffff
+    color:#ffffff;
 }
 
 section {
