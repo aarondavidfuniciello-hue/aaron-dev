@@ -794,7 +794,6 @@ footer {
 body {
     background-color: #111111;
     color:#f5f5f5;
-    font-family: Arial, sans-serif;
 }
 
 header {
