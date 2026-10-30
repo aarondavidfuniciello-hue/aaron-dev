@@ -787,14 +787,13 @@ footer {
     .galeria-img {
         height: 250px;
     }
-} /*
+} 
 
 /* COLORES PARA URBAN CUTS */
 
 body {
     background-color: #111111;
     color:#f5f5f5;
-    font-family: Arial, sans-serif;
 }
 
 header {
