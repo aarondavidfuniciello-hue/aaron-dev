@@ -794,8 +794,12 @@ footer {
 /* COLORES PARA URBAN CUTS */
 
 body {
-    background-color: #111111;
-    color:#f5f5f5;
+    background-color: black;
+    color:vwhite;
+}
+
+h1 {
+    color: orange;
 }
 
 header {
