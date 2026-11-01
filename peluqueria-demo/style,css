@@ -10,8 +10,8 @@ html {
 
 body {
     font-family: Arial, sans-serif;
-    background: #111111;
-    color: #f5f5f5;
+    background-color: black;
+    color: white;
     line-height: 1.6;
 }
 
